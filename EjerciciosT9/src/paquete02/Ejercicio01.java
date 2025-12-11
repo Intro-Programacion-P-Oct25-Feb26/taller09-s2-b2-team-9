@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 /* Lo que este programa hace en es que en base a los posiciones dadas en el arreglo
-busca cuantas de estas posiciones estan dentro de los rangos dados*/
+busca cuantas de estas posiciones estan dentro de los rangos dados Ej*/
 package paquete02;
 
 /**
